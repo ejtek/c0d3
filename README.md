@@ -1,3 +1,5 @@
-# Repository for mostly useless code.
+# C0D3
 
-# Feedback is appreciated.
+Repository for mostly useless code.
+
+Feedback is appreciated.
